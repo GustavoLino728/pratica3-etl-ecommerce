@@ -1,0 +1,301 @@
+product_id,product_name,category,price
+1,O direito de mudar com força total,Livros,1866.72
+2,A segurança de ganhar mais facilmente,Livros,283.17
+3,O conforto de mudar com confiança,Automotivo,1484.37
+4,O conforto de avançar com confiança,Alimentos,492.49
+5,A arte de avançar direto da fonte,Beleza,459.09
+6,A simplicidade de realizar seus sonhos em estado puro,Alimentos,114.46
+7,A simplicidade de evoluir antes de tudo,Casa e Jardim,667.28
+8,A simplicidade de realizar seus sonhos simplesmente,Brinquedos,210.08
+9,A possibilidade de inovar com toda a tranquilidade,Calcados,20.31
+10,O prazer de concretizar seus projetos com confiança,Beleza,1956.04
+11,O direito de mudar mais facilmente,Calcados,819.75
+12,A certeza de mudar de maneira eficaz,Brinquedos,960.12
+13,A certeza de inovar com força total,Alimentos,1514.26
+14,A vantagem de avançar mais facilmente,Livros,649.12
+15,A vantagem de concretizar seus projetos de maneira eficaz,Eletronicos,1816.79
+16,A vantagem de evoluir sem preocupação,Roupas,1308.07
+17,O conforto de conseguir antes de tudo,Alimentos,1074.95
+18,A liberdade de concretizar seus projetos em estado puro,Eletronicos,1827.33
+19,O prazer de mudar sem preocupação,Calcados,841.59
+20,O conforto de realizar seus sonhos em estado puro,Calcados,1868.51
+21,O conforto de evoluir de maneira eficaz,Eletronicos,1994.37
+22,O conforto de ganhar naturalmente,Casa e Jardim,1578.04
+23,A possibilidade de mudar mais facilmente,Calcados,1873.85
+24,A segurança de inovar em estado puro,Livros,1754.72
+25,A vantagem de concretizar seus projetos em estado puro,Eletronicos,603.8
+26,A arte de mudar com confiança,Automotivo,223.53
+27,A liberdade de realizar seus sonhos antes de tudo,Esportes,576.28
+28,A simplicidade de realizar seus sonhos naturalmente,Beleza,1053.39
+29,A segurança de mudar de maneira eficaz,Calcados,1703.61
+30,A certeza de mudar naturalmente,Brinquedos,552.95
+31,A vantagem de ganhar mais rapidamente,Roupas,668.06
+32,O prazer de ganhar mais facilmente,Brinquedos,1300.09
+33,A vantagem de avançar de maneira eficaz,Calcados,38.03
+34,A liberdade de evoluir com confiança,Esportes,1583.63
+35,A liberdade de conseguir mais rapidamente,Automotivo,1352.06
+36,A simplicidade de concretizar seus projetos com toda a tranquilidade,Alimentos,359.23
+37,A segurança de mudar de maneira eficaz,Casa e Jardim,1655.71
+38,O direito de avançar simplesmente,Beleza,662.57
+39,O prazer de avançar mais facilmente,Casa e Jardim,1341.82
+40,A segurança de evoluir com confiança,Calcados,1963.55
+41,O prazer de mudar mais facilmente,Brinquedos,653.97
+42,A liberdade de concretizar seus projetos naturalmente,Alimentos,23.59
+43,A liberdade de evoluir de maneira eficaz,Casa e Jardim,478.69
+44,A vantagem de avançar mais rapidamente,Livros,1908.53
+45,O poder de atingir seus objetivos mais rapidamente,Livros,1169.1
+46,O conforto de conseguir mais rapidamente,Automotivo,32.76
+47,O direito de evoluir com confiança,Esportes,1388.61
+48,A liberdade de realizar seus sonhos sem preocupação,Eletronicos,1338.89
+49,A simplicidade de mudar de maneira eficaz,Brinquedos,620.54
+50,A vantagem de mudar naturalmente,Casa e Jardim,1375.29
+51,A arte de mudar em estado puro,Livros,1383.68
+52,A liberdade de evoluir sem preocupação,Livros,741.41
+53,A possibilidade de avançar mais facilmente,Alimentos,446.07
+54,O conforto de avançar mais rapidamente,Calcados,961.58
+55,A segurança de realizar seus sonhos direto da fonte,Brinquedos,1497.99
+56,A liberdade de realizar seus sonhos mais facilmente,Automotivo,753.51
+57,A segurança de ganhar mais facilmente,Beleza,1826.47
+58,A vantagem de inovar naturalmente,Beleza,1605.97
+59,A segurança de mudar com confiança,Alimentos,1526.1
+60,A arte de atingir seus objetivos mais rapidamente,Automotivo,1747.54
+61,A simplicidade de ganhar mais facilmente,Roupas,1055.76
+62,A segurança de avançar simplesmente,Beleza,1410.49
+63,O prazer de evoluir com toda a tranquilidade,Roupas,1835.32
+64,O poder de ganhar em estado puro,Roupas,132.9
+65,A possibilidade de ganhar naturalmente,Beleza,1806.75
+66,O conforto de mudar de maneira eficaz,Alimentos,1149.68
+67,O prazer de evoluir de maneira eficaz,Calcados,337.43
+68,O direito de conseguir naturalmente,Beleza,889.26
+69,A arte de evoluir sem preocupação,Alimentos,1436.67
+70,A possibilidade de concretizar seus projetos com toda a tranquilidade,Brinquedos,190.97
+71,O conforto de conseguir sem preocupação,Beleza,896.51
+72,O poder de atingir seus objetivos com força total,Eletronicos,912.33
+73,O poder de mudar mais facilmente,Beleza,836.69
+74,A certeza de realizar seus sonhos direto da fonte,Automotivo,124.9
+75,A arte de ganhar com toda a tranquilidade,Brinquedos,1348.81
+76,A liberdade de conseguir simplesmente,Livros,1449.33
+77,A segurança de mudar de maneira eficaz,Casa e Jardim,516.37
+78,A segurança de ganhar naturalmente,Eletronicos,1494.15
+79,A vantagem de concretizar seus projetos antes de tudo,Automotivo,155.33
+80,A certeza de avançar antes de tudo,Casa e Jardim,695.61
+81,A vantagem de ganhar antes de tudo,Roupas,1086.92
+82,O poder de evoluir simplesmente,Eletronicos,1869.82
+83,O direito de avançar mais facilmente,Roupas,1972.41
+84,O direito de atingir seus objetivos de maneira eficaz,Brinquedos,73.15
+85,A segurança de realizar seus sonhos de maneira eficaz,Casa e Jardim,368.16
+86,A possibilidade de avançar de maneira eficaz,Calcados,1534.0
+87,A segurança de atingir seus objetivos em estado puro,Casa e Jardim,755.18
+88,O prazer de concretizar seus projetos naturalmente,Casa e Jardim,902.59
+89,O prazer de concretizar seus projetos mais facilmente,Casa e Jardim,757.53
+90,A possibilidade de conseguir em estado puro,Beleza,274.65
+91,A possibilidade de avançar com confiança,Esportes,246.08
+92,O direito de avançar mais facilmente,Beleza,792.19
+93,O prazer de ganhar com confiança,Calcados,1458.44
+94,O direito de avançar simplesmente,Alimentos,1671.3
+95,O poder de concretizar seus projetos mais rapidamente,Eletronicos,1957.2
+96,A segurança de concretizar seus projetos com confiança,Brinquedos,1350.26
+97,A arte de avançar de maneira eficaz,Beleza,854.01
+98,A arte de realizar seus sonhos com toda a tranquilidade,Casa e Jardim,1648.49
+99,A certeza de mudar naturalmente,Alimentos,926.64
+100,O prazer de mudar de maneira eficaz,Calcados,558.54
+101,A vantagem de atingir seus objetivos mais facilmente,Roupas,74.11
+102,A possibilidade de realizar seus sonhos direto da fonte,Casa e Jardim,1233.7
+103,O direito de atingir seus objetivos com confiança,Eletronicos,488.93
+104,A vantagem de inovar sem preocupação,Roupas,210.78
+105,A simplicidade de avançar em estado puro,Eletronicos,898.42
+106,A arte de mudar direto da fonte,Eletronicos,497.02
+107,A vantagem de atingir seus objetivos mais facilmente,Eletronicos,810.51
+108,A certeza de atingir seus objetivos naturalmente,Alimentos,1084.12
+109,O conforto de avançar antes de tudo,Eletronicos,288.87
+110,A possibilidade de mudar mais facilmente,Livros,475.98
+111,A segurança de conseguir de maneira eficaz,Automotivo,644.62
+112,O poder de atingir seus objetivos naturalmente,Automotivo,1547.35
+113,A certeza de ganhar direto da fonte,Esportes,481.44
+114,O prazer de avançar de maneira eficaz,Calcados,1971.53
+115,A vantagem de concretizar seus projetos direto da fonte,Beleza,449.88
+116,O prazer de inovar de maneira eficaz,Livros,557.56
+117,A liberdade de inovar com força total,Beleza,1897.56
+118,A possibilidade de realizar seus sonhos mais rapidamente,Calcados,1255.73
+119,A vantagem de conseguir antes de tudo,Casa e Jardim,1116.14
+120,A liberdade de avançar antes de tudo,Eletronicos,1944.86
+121,A segurança de inovar com força total,Casa e Jardim,1573.75
+122,A vantagem de inovar direto da fonte,Esportes,1395.65
+123,O poder de realizar seus sonhos sem preocupação,Casa e Jardim,306.94
+124,A liberdade de avançar simplesmente,Casa e Jardim,375.92
+125,A vantagem de concretizar seus projetos direto da fonte,Beleza,952.3
+126,O poder de atingir seus objetivos com força total,Alimentos,608.47
+127,O prazer de atingir seus objetivos naturalmente,Calcados,1613.49
+128,O conforto de mudar sem preocupação,Eletronicos,1129.15
+129,A segurança de concretizar seus projetos sem preocupação,Casa e Jardim,1119.0
+130,A simplicidade de mudar mais facilmente,Calcados,782.95
+131,O poder de evoluir simplesmente,Livros,414.64
+132,A vantagem de avançar com força total,Roupas,1845.23
+133,A segurança de avançar com confiança,Esportes,194.0
+134,O conforto de atingir seus objetivos direto da fonte,Alimentos,112.56
+135,A segurança de mudar sem preocupação,Casa e Jardim,1350.61
+136,A possibilidade de concretizar seus projetos em estado puro,Automotivo,88.7
+137,O prazer de avançar naturalmente,Roupas,384.44
+138,O conforto de conseguir direto da fonte,Automotivo,1451.37
+139,O prazer de realizar seus sonhos mais rapidamente,Beleza,441.86
+140,A arte de realizar seus sonhos com força total,Alimentos,1740.25
+141,O conforto de avançar mais rapidamente,Esportes,613.34
+142,A segurança de realizar seus sonhos em estado puro,Eletronicos,431.5
+143,A liberdade de realizar seus sonhos de maneira eficaz,Alimentos,1924.53
+144,A possibilidade de atingir seus objetivos com toda a tranquilidade,Roupas,1496.29
+145,A possibilidade de evoluir mais facilmente,Brinquedos,1829.74
+146,O direito de ganhar em estado puro,Automotivo,1410.5
+147,A vantagem de concretizar seus projetos em estado puro,Casa e Jardim,1831.1
+148,O direito de conseguir em estado puro,Beleza,650.01
+149,A segurança de conseguir com toda a tranquilidade,Livros,767.52
+150,O poder de concretizar seus projetos antes de tudo,Beleza,1300.96
+151,A liberdade de avançar mais facilmente,Livros,530.51
+152,O poder de avançar com toda a tranquilidade,Beleza,1766.8
+153,O prazer de avançar mais facilmente,Brinquedos,206.23
+154,A liberdade de inovar mais facilmente,Brinquedos,1525.64
+155,A possibilidade de realizar seus sonhos mais facilmente,Esportes,1829.52
+156,O poder de concretizar seus projetos direto da fonte,Esportes,632.71
+157,A certeza de conseguir com força total,Eletronicos,1129.42
+158,A simplicidade de avançar com toda a tranquilidade,Alimentos,1485.09
+159,A vantagem de atingir seus objetivos mais rapidamente,Eletronicos,528.94
+160,O poder de conseguir sem preocupação,Automotivo,1162.49
+161,O conforto de concretizar seus projetos com toda a tranquilidade,Casa e Jardim,597.43
+162,A arte de atingir seus objetivos antes de tudo,Alimentos,666.43
+163,O direito de atingir seus objetivos mais facilmente,Casa e Jardim,1143.88
+164,A liberdade de conseguir com força total,Alimentos,1003.61
+165,A liberdade de inovar com força total,Esportes,522.08
+166,O poder de realizar seus sonhos simplesmente,Brinquedos,1933.35
+167,A vantagem de atingir seus objetivos de maneira eficaz,Brinquedos,927.05
+168,O direito de realizar seus sonhos com toda a tranquilidade,Esportes,346.84
+169,O prazer de concretizar seus projetos de maneira eficaz,Beleza,981.75
+170,A possibilidade de ganhar mais rapidamente,Beleza,1980.74
+171,O conforto de evoluir antes de tudo,Eletronicos,1052.65
+172,A liberdade de atingir seus objetivos com toda a tranquilidade,Roupas,1890.92
+173,A segurança de realizar seus sonhos com força total,Eletronicos,1531.03
+174,A certeza de realizar seus sonhos naturalmente,Casa e Jardim,283.61
+175,A vantagem de conseguir naturalmente,Alimentos,145.26
+176,A certeza de atingir seus objetivos sem preocupação,Calcados,28.19
+177,A possibilidade de concretizar seus projetos com força total,Beleza,917.46
+178,O poder de conseguir com força total,Eletronicos,1239.49
+179,O prazer de inovar mais rapidamente,Automotivo,1826.38
+180,O prazer de mudar antes de tudo,Brinquedos,41.31
+181,A simplicidade de atingir seus objetivos mais rapidamente,Beleza,1107.77
+182,A simplicidade de concretizar seus projetos com confiança,Eletronicos,43.29
+183,A segurança de ganhar mais facilmente,Livros,1076.12
+184,A segurança de inovar antes de tudo,Livros,44.11
+185,O poder de ganhar com confiança,Casa e Jardim,1614.27
+186,O conforto de ganhar com toda a tranquilidade,Calcados,222.96
+187,O direito de evoluir com toda a tranquilidade,Roupas,1053.53
+188,A vantagem de avançar naturalmente,Alimentos,391.94
+189,A liberdade de conseguir simplesmente,Beleza,512.31
+190,A certeza de conseguir com força total,Esportes,541.98
+191,O poder de avançar sem preocupação,Casa e Jardim,167.25
+192,O prazer de realizar seus sonhos mais facilmente,Casa e Jardim,923.41
+193,A vantagem de realizar seus sonhos com força total,Alimentos,1980.56
+194,A possibilidade de realizar seus sonhos com confiança,Alimentos,606.95
+195,O poder de concretizar seus projetos em estado puro,Roupas,1310.93
+196,O prazer de inovar mais rapidamente,Eletronicos,196.07
+197,A certeza de atingir seus objetivos em estado puro,Casa e Jardim,760.57
+198,A simplicidade de ganhar com força total,Brinquedos,121.67
+199,O poder de atingir seus objetivos com toda a tranquilidade,Eletronicos,1408.66
+200,A vantagem de realizar seus sonhos com força total,Roupas,1004.72
+201,A vantagem de atingir seus objetivos com confiança,Casa e Jardim,1293.37
+202,A certeza de realizar seus sonhos naturalmente,Esportes,1136.05
+203,O prazer de ganhar antes de tudo,Roupas,1790.63
+204,A arte de conseguir mais rapidamente,Eletronicos,467.24
+205,A vantagem de evoluir com confiança,Automotivo,956.25
+206,A segurança de concretizar seus projetos antes de tudo,Eletronicos,1849.08
+207,O poder de conseguir antes de tudo,Livros,1799.63
+208,O prazer de concretizar seus projetos mais rapidamente,Automotivo,1319.64
+209,A liberdade de conseguir simplesmente,Calcados,1858.25
+210,A simplicidade de atingir seus objetivos antes de tudo,Esportes,41.16
+211,O poder de evoluir mais rapidamente,Alimentos,1178.2
+212,A arte de ganhar com força total,Casa e Jardim,1858.46
+213,O poder de concretizar seus projetos de maneira eficaz,Livros,333.28
+214,A segurança de inovar mais facilmente,Alimentos,1137.72
+215,A possibilidade de inovar mais facilmente,Casa e Jardim,1357.3
+216,A certeza de atingir seus objetivos naturalmente,Beleza,670.14
+217,A possibilidade de atingir seus objetivos naturalmente,Calcados,1583.09
+218,O poder de conseguir antes de tudo,Roupas,1006.58
+219,A certeza de evoluir de maneira eficaz,Esportes,116.86
+220,A arte de atingir seus objetivos antes de tudo,Casa e Jardim,471.97
+221,O direito de ganhar em estado puro,Roupas,687.78
+222,A vantagem de concretizar seus projetos com toda a tranquilidade,Automotivo,1910.17
+223,A simplicidade de mudar em estado puro,Casa e Jardim,1938.15
+224,O poder de evoluir simplesmente,Esportes,68.96
+225,A certeza de atingir seus objetivos naturalmente,Livros,1569.26
+226,A liberdade de evoluir naturalmente,Brinquedos,986.3
+227,A certeza de conseguir mais rapidamente,Esportes,1110.55
+228,A liberdade de ganhar com força total,Casa e Jardim,869.38
+229,A simplicidade de conseguir de maneira eficaz,Automotivo,1324.74
+230,O conforto de evoluir mais rapidamente,Roupas,1546.61
+231,O conforto de inovar mais facilmente,Livros,1598.13
+232,O poder de concretizar seus projetos com confiança,Roupas,173.26
+233,A certeza de atingir seus objetivos mais facilmente,Calcados,766.2
+234,A vantagem de avançar naturalmente,Calcados,1481.91
+235,O prazer de avançar mais facilmente,Esportes,727.79
+236,O prazer de avançar antes de tudo,Roupas,20.34
+237,A possibilidade de realizar seus sonhos direto da fonte,Livros,895.02
+238,A segurança de conseguir em estado puro,Livros,213.44
+239,O prazer de concretizar seus projetos com força total,Roupas,382.91
+240,O direito de concretizar seus projetos em estado puro,Brinquedos,1118.4
+241,A simplicidade de avançar mais facilmente,Beleza,822.01
+242,O direito de conseguir com toda a tranquilidade,Eletronicos,188.34
+243,O conforto de atingir seus objetivos com toda a tranquilidade,Beleza,195.2
+244,A liberdade de atingir seus objetivos mais rapidamente,Automotivo,1571.03
+245,O prazer de evoluir de maneira eficaz,Casa e Jardim,34.56
+246,A possibilidade de inovar simplesmente,Casa e Jardim,781.72
+247,A arte de mudar naturalmente,Roupas,1452.44
+248,A vantagem de atingir seus objetivos em estado puro,Beleza,1811.36
+249,O direito de realizar seus sonhos antes de tudo,Alimentos,1148.2
+250,A arte de inovar em estado puro,Calcados,1373.78
+251,A certeza de evoluir mais rapidamente,Calcados,286.29
+252,A possibilidade de ganhar com toda a tranquilidade,Livros,544.13
+253,A certeza de conseguir de maneira eficaz,Calcados,135.9
+254,A certeza de inovar direto da fonte,Casa e Jardim,559.16
+255,A certeza de concretizar seus projetos antes de tudo,Livros,973.62
+256,A simplicidade de avançar mais rapidamente,Roupas,728.64
+257,A simplicidade de evoluir com confiança,Alimentos,1444.59
+258,A certeza de realizar seus sonhos com força total,Brinquedos,1191.67
+259,A liberdade de avançar sem preocupação,Alimentos,921.14
+260,O poder de mudar simplesmente,Calcados,616.27
+261,A liberdade de evoluir sem preocupação,Casa e Jardim,671.11
+262,A segurança de mudar em estado puro,Automotivo,765.98
+263,A liberdade de evoluir mais rapidamente,Esportes,886.04
+264,A arte de conseguir direto da fonte,Casa e Jardim,1632.8
+265,O prazer de atingir seus objetivos simplesmente,Automotivo,280.89
+266,A certeza de ganhar com confiança,Esportes,1210.39
+267,A segurança de atingir seus objetivos com força total,Alimentos,963.23
+268,A arte de realizar seus sonhos em estado puro,Calcados,1929.5
+269,A certeza de mudar antes de tudo,Esportes,589.98
+270,A certeza de conseguir de maneira eficaz,Brinquedos,1935.85
+271,A possibilidade de avançar com confiança,Alimentos,658.51
+272,O direito de concretizar seus projetos em estado puro,Livros,1634.82
+273,A possibilidade de avançar naturalmente,Casa e Jardim,736.38
+274,O conforto de inovar com toda a tranquilidade,Automotivo,407.6
+275,A liberdade de ganhar com toda a tranquilidade,Beleza,368.06
+276,O poder de conseguir em estado puro,Beleza,63.56
+277,A possibilidade de ganhar com confiança,Brinquedos,1886.52
+278,O direito de mudar sem preocupação,Alimentos,882.53
+279,A segurança de ganhar simplesmente,Livros,1664.25
+280,O conforto de realizar seus sonhos sem preocupação,Roupas,1639.74
+281,A possibilidade de atingir seus objetivos com força total,Casa e Jardim,1349.23
+282,A vantagem de realizar seus sonhos em estado puro,Calcados,1270.34
+283,A vantagem de conseguir com toda a tranquilidade,Alimentos,512.84
+284,O direito de evoluir sem preocupação,Calcados,1433.32
+285,A certeza de concretizar seus projetos direto da fonte,Casa e Jardim,157.19
+286,A certeza de atingir seus objetivos simplesmente,Automotivo,963.68
+287,O prazer de realizar seus sonhos com confiança,Casa e Jardim,1073.39
+288,A certeza de evoluir com toda a tranquilidade,Casa e Jardim,1091.85
+289,A simplicidade de realizar seus sonhos direto da fonte,Esportes,1406.25
+290,A vantagem de concretizar seus projetos mais facilmente,Beleza,1191.7
+291,A simplicidade de avançar mais facilmente,Roupas,227.65
+292,A liberdade de realizar seus sonhos sem preocupação,Alimentos,1318.63
+293,O poder de evoluir com força total,Esportes,341.01
+294,O conforto de realizar seus sonhos em estado puro,Automotivo,98.15
+295,A vantagem de realizar seus sonhos simplesmente,Casa e Jardim,1933.95
+296,O conforto de avançar de maneira eficaz,Esportes,1931.78
+297,A segurança de evoluir simplesmente,Casa e Jardim,220.83
+298,A segurança de conseguir mais rapidamente,Roupas,524.89
+299,O direito de atingir seus objetivos naturalmente,Beleza,1496.24
+300,A segurança de conseguir em estado puro,Beleza,1165.23
