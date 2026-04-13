@@ -1,0 +1,69 @@
+
+import pandas as pd
+import duckdb
+import logging
+from datetime import datetime
+
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+logger = logging.getLogger("etl_pipeline")
+DB_PATH = "data/ecommerce.duckdb"
+
+def extract():
+    logger.info("=== ETAPA 1: EXTRACAO ===")
+    customers   = pd.read_csv("data/raw/customers.csv")
+    products    = pd.read_csv("data/raw/products.csv")
+    orders      = pd.read_csv("data/raw/orders.csv")
+    order_items = pd.read_csv("data/raw/order_items.csv")
+    return customers, products, orders, order_items
+
+def transform(customers, products, orders, order_items):
+    logger.info("=== ETAPA 2: TRANSFORMACAO ===")
+    customers["signup_date"] = pd.to_datetime(customers["signup_date"])
+    orders["order_date"]     = pd.to_datetime(orders["order_date"])
+    products["price"]        = products["price"].astype(float)
+    order_items["unit_price"]  = order_items["unit_price"].astype(float)
+    order_items["quantity"]    = order_items["quantity"].astype(int)
+    customers["city"]  = customers["city"].fillna("Desconhecida")
+    orders["status"]   = orders["status"].fillna("pending")
+    order_items["total_item_value"] = order_items["quantity"] * order_items["unit_price"]
+    df = order_items.merge(orders, on="order_id", how="left")
+    df = df.merge(products[["product_id","product_name","category"]], on="product_id", how="left")
+    df = df.merge(customers[["customer_id","customer_name","city","state"]], on="customer_id", how="left")
+    df["year_month"] = df["order_date"].dt.to_period("M").astype(str)
+    return customers, products, orders, order_items, df
+
+def load(customers, products, orders, order_items, df_joined):
+    logger.info("=== ETAPA 3: CARGA ===")
+    con = duckdb.connect(DB_PATH)
+    for name, df in [("raw_customers",customers),("raw_products",products),
+                     ("raw_orders",orders),("raw_order_items",order_items)]:
+        con.execute(f"DROP TABLE IF EXISTS {name}")
+        con.register(f"_{name}",df)
+        con.execute(f"CREATE TABLE {name} AS SELECT * FROM _{name}")
+    con.execute("DROP TABLE IF EXISTS treated_orders")
+    con.execute("DROP TABLE IF EXISTS treated_order_items")
+    con.register("_orders_reg",orders)
+    con.execute("""
+        CREATE TABLE treated_orders AS
+        SELECT order_id, customer_id, order_date::DATE AS order_date, status
+        FROM _orders_reg
+    """)
+    con.register("_items_reg",order_items)
+    con.execute("""
+        CREATE TABLE treated_order_items AS
+        SELECT order_item_id, order_id, product_id, quantity, unit_price,
+               ROUND(quantity*unit_price,2) AS total_item_value
+        FROM _items_reg
+    """)
+    con.execute("DROP TABLE IF EXISTS analytical_sales")
+    con.register("_analytical",df_joined)
+    con.execute("CREATE TABLE analytical_sales AS SELECT * FROM _analytical")
+    con.close()
+    return DB_PATH
+
+if __name__ == "__main__":
+    start = datetime.now()
+    c, p, o, oi = extract()
+    c, p, o, oi, df = transform(c, p, o, oi)
+    load(c, p, o, oi, df)
+    logger.info(f"Pipeline ETL concluido em {datetime.now()-start}")
